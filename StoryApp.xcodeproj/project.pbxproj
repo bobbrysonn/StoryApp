@@ -73,6 +73,7 @@
 			isa = PBXGroup;
 			children = (
 				C40C46492C22A0F600E97332 /* StoryApp */,
+				C4A9C47B2C249BEA00C7A6BC /* README.md */,
 				C40C46482C22A0F600E97332 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -95,7 +96,6 @@
 				C40C464A2C22A0F600E97332 /* StoryAppApp.swift */,
 				C40C464E2C22A0F700E97332 /* Assets.xcassets */,
 				C40C46502C22A0F700E97332 /* Preview Content */,
-				C4A9C47B2C249BEA00C7A6BC /* README.md */,
 			);
 			path = StoryApp;
 			sourceTree = "<group>";
