@@ -4,7 +4,7 @@ An app I built to learn SwiftUI
 
 ## Screenshots
 
-[<img src="./StoryApp/Screenshots/en/screen1.png" width="250"/>](./StoryApp/Screenshots/en/screen1.png)
+[<img src="./StoryApp/Screenshots/en/screen1.png" width="250" style="border-radius:20px"/>](./StoryApp/Screenshots/en/screen1.png)
 [<img src="./StoryApp/Screenshots/en/screen2.png" width="250"/>](./StoryApp/Screenshots/en/screen2.png)
 [<img src="./StoryApp/Screenshots/en/screen3.png" width="250"/>](./StoryApp/Screenshots/en/screen3.png)
 [<img src="./StoryApp/Screenshots/en/screen4.png" width="250"/>](./StoryApp/Screenshots/en/screen4.png)
